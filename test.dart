@@ -5,4 +5,7 @@ main() {
   var y = foo[3];
   print(x);
   print(y);
+  int lineCount;
+  lineCount = 5;
+  print(lineCount);
 }
